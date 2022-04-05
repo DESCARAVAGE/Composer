@@ -1,0 +1,15 @@
+{
+    "name": "escaravage/escaravage",
+    "autoload": {
+        "psr-4": {
+            "Escaravage\\Escaravage\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Daniel ESCARAVAGE",
+            "email": "escaravage.daniel@gmail.com"
+        }
+    ],
+    "require": {}
+}
