@@ -15,6 +15,6 @@
     <title>Document</title>
 </head>
 <body>
-    
+    <?= $hello->talk()?>
 </body>
 </html>
